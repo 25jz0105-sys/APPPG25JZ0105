@@ -1,0 +1,23 @@
+<resources>
+    <string name="input_hint">お名前を入力してください</string>
+    <string name="cb_drink">ドリンク</string>
+    <string name="cb_food">フード</string>
+    <string name="rb_none">未設定</string>
+    <string name="rb_male">男</string>
+    <string name="rb_female">女</string>
+    <string name="save">保存</string>
+    <string-array name="menu_items">
+        <item>ドライカレー</item>
+        <item>ホワイトレディー</item>
+        <item>バラライカ</item>
+        <item>XYZ</item>
+        <item>ニューヨーク</item>
+        <item>マンハッタン</item>
+        <item>ミシシッピミュール</item>
+        <item>ブルーハワイ</item>
+        <item>マイタイ</item>
+        <item>マティーニ</item>
+        <item>ブルームーン</item>
+        <item>モヒート</item>
+    </string-array>
+</resources>
